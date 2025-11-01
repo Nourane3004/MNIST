@@ -1,0 +1,2 @@
+# MNIST
+SVM classification algorithm
